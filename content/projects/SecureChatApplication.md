@@ -1,13 +1,14 @@
 ---
-date: '2022-10-01'
+date: '2024-10-01'
 title: 'Secure Chat Application'
 github: ''
 external: ''
 tech:
-  - Craft CMS
-  - Chart.js
-company: 'Upstatement'
+  - React
+  - MongoDB
+  - OAuth2
+company: ''
 showInProjects: true
 ---
 
-A marketing site for an ambitious life sciences venture capital company.
+Developed a secure messaging platform using the MERN stack with end-to-end encryption and ensure secure data transmission and storage.

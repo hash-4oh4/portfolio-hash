@@ -4,11 +4,11 @@ title: ' Custom Linux Operating System with Secure Framework using LFS'
 github: ''
 external: ''
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Linux Kernel
+  - Bash
+  - LFS
+company: ''
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Built a customized Linux operating system from the ground up with LFS (Linux from Scratch) as model with advanced security modules for enhanced system protection.
