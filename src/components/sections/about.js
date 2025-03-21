@@ -135,16 +135,17 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Hashir and I am a jack of all trades. My interest in tech started back 
-              in my childhood when I decided to tinker and explore my uncle's workstation which 
-              will manifest to tech craze years later &amp; CSS!
+              Hello! My name is Hashir and I am a student with aspirations in cybersecurity and
+              software engineering. My interest in tech started back in my childhood when I decided
+              to tinker and explore my uncle's workstation which will manifest to tech craze years
+              later &amp; CSS!
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.ltimindtree.com/">a huge corporation</a> 
-              My main focus these days is building and learning innovative solutions, inclusive products and digital
-              experiences as a hooby and carrer upskilling of course!
+              <a href="https://www.ltimindtree.com/">a huge corporation</a>
+              My main focus these days is building and learning innovative solutions, inclusive
+              products and digital experiences as a hooby and carrer upskilling of course!
             </p>
 
             <p>
