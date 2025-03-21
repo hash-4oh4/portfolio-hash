@@ -1,5 +1,5 @@
 ---
-date: '2020-03-27'
+date: '2025-03-27'
 title: ' Custom Linux Operating System with Secure Framework using LFS'
 github: ''
 external: ''
@@ -7,7 +7,7 @@ tech:
   - Linux Kernel
   - Bash
   - LFS
-company: ''
+company: 'MCET'
 showInProjects: true
 ---
 

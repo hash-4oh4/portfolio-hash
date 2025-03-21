@@ -7,7 +7,7 @@ tech:
   - React
   - MongoDB
   - OAuth2
-company: ''
+company: 'MCET'
 showInProjects: true
 ---
 
