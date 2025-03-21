@@ -9,7 +9,7 @@ url: 'https://encryptix.co.in/'
 
 Technical Team Lead of the Department Association of Cyber Security (Encryptix) 2024-25
 
-– Training and Workshop Organization
-– Technical Consultation
-– Analytics and Reporting
-– Technical Support
+- Training and Workshop Organization
+- Technical Consultation
+- Analytics and Reporting
+- Technical Support
