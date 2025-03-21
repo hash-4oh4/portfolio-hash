@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [' Linux', 'Ethical Hacking', 'React', 'Cloud', 'Node.js', 'Networks'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,24 +137,18 @@ const About = () => {
             <p>
               Hello! My name is Hashir and I am a student with aspirations in cybersecurity and
               software engineering. My interest in tech started back in my childhood when I decided
-              to tinker and explore my uncle's workstation which will manifest to tech craze years
-              later &amp; CSS!
+              to tinker and explore my uncle's workstation which will manifest to tech craze year's
+              later!
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.ltimindtree.com/">a huge corporation</a>
+              Fast-forward to today, I am pursuing Computer Science degree and I’ve had the
+              privilege to intern at <a href="https://www.ltimindtree.com/">a huge corporation.</a>
+            </p>
+
+            <p>
               My main focus these days is building and learning innovative solutions, inclusive
               products and digital experiences as a hooby and carrer upskilling of course!
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
