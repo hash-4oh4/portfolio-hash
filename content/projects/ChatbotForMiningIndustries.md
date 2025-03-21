@@ -2,13 +2,16 @@
 date: '2018-12-01'
 title: 'Chatbot for Indian Mining Industries pertaining Rules, Regulations & Guidelines'
 github: ''
-external: 'https://www.devoted.com/'
+external: ''
+ios: ''
+android: ''
 tech:
-  - Gatsby
-  - TypeScript
-  - Algolia
-company: 'Upstatement'
+  - JavaScript
+  - Python
+  - Fast API
+  - Transformers
+company: 'SIH 2023'
 showInProjects: true
 ---
 
-A site for a revolutionary healthcare company, including an Algolia instant search integration
+Chatbot with transformer technology to provide accurate results to queries, Developed for problem statement provided by Smart India Hackathon 2023
