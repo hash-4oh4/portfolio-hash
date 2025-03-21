@@ -1,7 +1,7 @@
 ---
 date: '2017-04-01'
 title: 'Technical Team Lead'
-company: 'Encryptix (Department Association of Cyber Security)'
+company: 'Encryptix (Cyber Security Dept Assn)'
 location: 'Dr. Mahalingam College of Engineering and Technology'
 range: 'August 2024 - Present'
 url: 'https://encryptix.co.in/'
