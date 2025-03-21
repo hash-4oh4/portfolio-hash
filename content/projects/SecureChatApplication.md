@@ -1,6 +1,6 @@
 ---
 date: '2024-10-01'
-title: 'Secure Chat Application'
+title: 'Secure Chat Application with end-to-end Encryption'
 github: ''
 external: ''
 tech:
