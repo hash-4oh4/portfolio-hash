@@ -1,13 +1,16 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+title: 'Corporate Security Intern'
+company: 'LTIMindtree'
+location: 'Chennai, TN, India'
+range: 'July - August 2024'
+url: 'https://ltimindtree.com/'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+– Observed and learned from the Corporate Security Department’s daily operations.
+– Gained insight into SIEM tools and network endpoint configurations.
+– Studied the configuration processes for firewalls, routers, and intrusion prevention systems (IPS).
+– Learned about secure system administration and network device hardening.
+– Researched vulnerability assessment techniques and remediation strategies.
+– Participated in security audits as an observer, understanding compliance requirements.
+– Monitored emerging cybersecurity threats and contributed reported observation to the team.
