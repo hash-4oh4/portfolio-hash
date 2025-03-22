@@ -155,5 +155,13 @@ module.exports = {
         trackingId: 'UA-45666519-2',
       },
     },
+    {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        defaults: {
+          formats: [`auto`, `webp`], // Remove `avif`
+        },
+      },
+    },
   ],
 };
