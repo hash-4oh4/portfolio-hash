@@ -40,7 +40,7 @@ const StyledHeroSection = styled.section`
     max-width: 540px;
   }
 
-  .email-link {
+  .resume-link {
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
   }
@@ -66,8 +66,7 @@ const Hero = () => {
     <>
       <p>
         I’m a software and cybersecurity engineer specializing in building and developing innovative
-        solutions. Currently, I’m learning and upskilling myself
-        at{' '}
+        solutions. Currently, I’m learning and upskilling myself at{' '}
         <a href="https://drmcet.ac.in/" target="_blank" rel="noreferrer">
           Dr. Mahalingam College of Engineering and Technology
         </a>
@@ -76,11 +75,7 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
+    <a className="resume-link" href="/resume.pdf" target="_blank" rel="noreferrer">
       Check out my resume!
     </a>
   );
