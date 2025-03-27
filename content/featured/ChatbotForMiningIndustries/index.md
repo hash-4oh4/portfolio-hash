@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Chatbot for Indian Mining Industries pertaining Rules Regulations & Guidelines'
-cover: './COMING.png'
+cover: './coming.png'
 github: ''
 external: ''
 tech:
