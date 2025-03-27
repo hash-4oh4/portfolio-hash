@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Custom Linux OS with Secure Framework using LFS'
-cover: './COMING.png'
+cover: './coming.png'
 github: ''
 external: ''
 tech:
